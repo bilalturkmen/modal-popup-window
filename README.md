@@ -1,6 +1,9 @@
-# modal-popup-window
-this a modal popup window demo. Created with JavaScript HTML DOM EventListener.
+<h1> Modal Popup Window </h1>
 
-You can use Esc button for close the modal window.
+These are examples of modal pop-up windows. It's built with HTML, CSS, and JavaScript.
+
+You can also use the Esc key to close the opened window.
 
 demo: https://bilalturkmen.github.io/modal-popup-window/
+
+![](/screenshot.png)
